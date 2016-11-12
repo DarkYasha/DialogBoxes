@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DialogBoxes</string>
+    <string name="dialog">DialogBox Demo</string>
+    <string name="alert">Alert Dialog Box</string>
+    <string name="custom">Custom Dialog Box</string>
+    <string name="alertf">Alert Dialog Fragment</string>
+    <string name="text">TextView</string>
+    <string name="close">Close</string>
+</resources>
